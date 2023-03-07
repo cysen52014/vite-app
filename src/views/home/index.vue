@@ -8,7 +8,6 @@
 
 <script>
 import { computed, onMounted } from "vue";
-import { Button } from "vant";
 import { useStore } from "vuex";
 import { forum, threads } from "@/api";
 
